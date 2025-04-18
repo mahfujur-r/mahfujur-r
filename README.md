@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujur-r&" alt="mahfujur-r" /></p>
 
 
-![snake gif](https://github.com/mahfujur-r/mahfujur-r/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
  
