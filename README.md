@@ -31,4 +31,3 @@
 
 
  
-![snake_gif](https://github.com/mahfujur-r/mahfujur-r/blob/output/github-snake-dark.svg)
