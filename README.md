@@ -27,3 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujur-r&show_icons=true&locale=en" alt="mahfujur-r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujur-r&" alt="mahfujur-r" /></p>
+
+
+
+ 
+![snake_gif](https://github.com/mahfujur-r/mahfujur-r/blob/output/github-snake-dark.svg)
