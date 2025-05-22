@@ -9,7 +9,7 @@
 
 - 🖼️ Checkout my portfolio [https://rahmanmahfujur0701.wixsite.com/portfolio](https://rahmanmahfujur0701.wixsite.com/portfolio)
 
-- 👨‍💻 Studying at https://www.metrouni.edu.bd
+- 👨‍💻 Studying at **Metropolitan University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
