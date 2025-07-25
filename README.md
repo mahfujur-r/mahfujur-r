@@ -7,8 +7,7 @@
 <img align="right" alt="coding"width="400"src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
 - 👨‍💻 I’m currently learning **Computer Science Engineering**
 
-- 🖼️ Checkout my portfolio [[https://rahmanmahfujur0701.wixsite.com/portfolio](https://rahmanmahfujur0701.wixsite.com/portfolio)](https://mahfujur-r.blogspot.com/)
-
+- 🖼️ Checkout my portfolio https://mahfujur-r.blogspot.com/
 - 👨‍💻 Studying at **Metropolitan University**
 
 <h3 align="left">Connect with me:</h3>
