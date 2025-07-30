@@ -2,7 +2,7 @@
   <img src="mahfuj.jpg" height="150" width="-10" />
 </h1>
 
-<h1 align="center">Hello, I'm Mahfujur Rahman — a 20-year-old Computer Science undergraduate from Bangladesh. I'm passionate about technology, software development, and continuous learning..</h1>
+<h1 align="center">Hello, I'm Mahfujur Rahman — a 20-year-old Computer Science undergraduate from Bangladesh.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfujur-r&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujur-r" /> </p>
 <img align="right" alt="coding"width="400"src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
   - 👥 I’m currently learning **Computer Science Engineering**
